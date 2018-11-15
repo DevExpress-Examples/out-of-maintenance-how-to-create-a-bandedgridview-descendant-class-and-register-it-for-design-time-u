@@ -1,3 +1,15 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/MyBandedGridView/Form1.cs) (VB: [Form1.vb](./VB/MyBandedGridView/Form1.vb))
+* [Form1.Designer.cs](./CS/MyBandedGridView/Form1.Designer.cs) (VB: [Form1.Designer.vb](./VB/MyBandedGridView/Form1.Designer.vb))
+* [MyBandedGridView.cs](./CS/MyBandedGridView/MyBandedGridView.cs) (VB: [MyBandedGridViewInfoRegistrator.vb](./VB/MyBandedGridView/MyBandedGridViewInfoRegistrator.vb))
+* [MyBandedGridViewHandler.cs](./CS/MyBandedGridView/MyBandedGridViewHandler.cs) (VB: [MyBandedGridViewHandler.vb](./VB/MyBandedGridView/MyBandedGridViewHandler.vb))
+* [MyBandedGridViewInfo.cs](./CS/MyBandedGridView/MyBandedGridViewInfo.cs) (VB: [MyBandedGridViewInfoRegistrator.vb](./VB/MyBandedGridView/MyBandedGridViewInfoRegistrator.vb))
+* [MyBandedGridViewInfoRegistrator.cs](./CS/MyBandedGridView/MyBandedGridViewInfoRegistrator.cs) (VB: [MyBandedGridViewInfoRegistrator.vb](./VB/MyBandedGridView/MyBandedGridViewInfoRegistrator.vb))
+* **[MyGridControl.cs](./CS/MyBandedGridView/MyGridControl.cs) (VB: [MyGridControl.vb](./VB/MyBandedGridView/MyGridControl.vb))**
+* [Program.cs](./CS/MyBandedGridView/Program.cs)
+<!-- default file list end -->
 # How to create a BandedGridView descendant class and register it for design-time use
 
 
